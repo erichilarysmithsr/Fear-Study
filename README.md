@@ -18,4 +18,4 @@ Overcome = “In your opinion, will you ever be able to overcome your fear?”
 Embarrassed = “Are you embarrassed by your fear”
 
 ## Pilot Study (FearPilot.csv)
-This data was conducted as a pilot study to determine whether or not students were satisfied with the survey.
+This data was collected as part of a pilot study to determine whether or not students were satisfied with the survey they created.
