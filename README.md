@@ -1,5 +1,5 @@
 # Fear-Study
-Data collected from a survey-based pilot study of the fears of individuals within the US.
+Data collected from a survey-based study of the fears of individuals within the US.
 
 Here is a description of each of the variables contained within the dataset.
 
@@ -19,3 +19,6 @@ Embarrassed = “Are you embarrassed by your fear”
 
 ## Pilot Study (FearPilot.csv)
 This data was collected as part of a pilot study to determine whether or not students were satisfied with the survey they created.
+
+## Study Data (FearStudyData.csv)
+This is the data that was collected from the study.
